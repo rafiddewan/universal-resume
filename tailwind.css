@@ -20,7 +20,7 @@
   .page {
     padding: theme(spacing.16) theme(spacing.16) !important;
   }
-
+  
   .initial {
     color: transparent !important;
     text-shadow: 0 0 0 #fff !important;
@@ -69,7 +69,7 @@ html {
 
 @screen lg {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
